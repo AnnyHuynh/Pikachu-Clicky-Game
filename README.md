@@ -12,10 +12,10 @@
 ## Deployment
 
 * Live app @ GitHub 
-  * 
+  * https://annyhuynh.github.io/Pikachu-Clicky-Game/
  
 * GitHub Repository
-  * 
+  * https://github.com/AnnyHuynh/Pikachu-Clicky-Game.git
 
 ## Game Rule 
 
@@ -85,13 +85,13 @@ src
 ### Game Snapshots
 
 * Initial screen
-    [![Demo image 1](public/images/demo1.ipg)]
+    [![Demo image 1](public/images/demo1.ipg)](https://annyhuynh.github.io/Pikachu-Clicky-Game/)
 
 * The `Score` increses while same images are not clicked
-    [![Demo image 1](public/images/demo2.ipg)]
+    [![Demo image 1](public/images/demo2.ipg)](https://annyhuynh.github.io/Pikachu-Clicky-Game/)
 
 * The `Score` resets when the same image is clicked. If it's the highest score, `Top Score` is updated.
-    [![Demo image 1](public/images/demo3.ipg)]
+    [![Demo image 1](public/images/demo3.ipg)](https://annyhuynh.github.io/Pikachu-Clicky-Game/)
 
 
 

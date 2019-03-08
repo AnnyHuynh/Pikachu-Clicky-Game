@@ -1,0 +1,9 @@
+/* 
+  Style for ClickyItem
+*/
+
+/* set images to nice viewable sizes */
+.clicky-item {
+  width: 11vw;
+  height: 14vw;
+}

@@ -1,0 +1,43 @@
+
+.App-link {
+  color: #fb7361;
+}
+
+.App-header-title {
+  color: rgba(160, 20, 20, 0.938); 
+  font-size: 30px;
+  font-weight: bolder;
+  text-align: center;
+  background-color: rgba(255, 136, 0, 0.582);
+  border: 2px solid rgb(8, 177, 207);
+  padding: 10px;
+  opacity: 50%;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  /* height: 40vmin; */
+  height: 8vh;
+  pointer-events: none;
+}
+
+.score {
+  color: black;
+  font-weight: bolder;
+  font-size: 25px;
+}
+.top-score {
+  color: black;
+  font-weight: bolder;
+  font-size: 25px;
+}
+

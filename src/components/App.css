@@ -1,0 +1,22 @@
+.App {
+  /* text-align: center; */
+  text-align: left;
+}
+
+.App-link {
+  color: blue;
+  size: 60px;
+}
+
+.App-header {
+  background: rgb(255, 196, 0);
+}
+
+.msg-text {
+  color: darkred;
+  padding-top: 20px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bolder;
+  font-style: italic;
+}

@@ -11,6 +11,10 @@
 
 ## Deployment
 
+* go to app @ Heroku:
+
+  * https://secure-basin-15429.herokuapp.com/
+
 * Live app @ GitHub 
   * https://annyhuynh.github.io/Pikachu-Clicky-Game/
  

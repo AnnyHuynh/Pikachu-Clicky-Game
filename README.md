@@ -86,15 +86,15 @@ src
 
  Initial screen.
 
-<img src="./public/images/demo1.jpg" width="400px" height="400px">
+<img src="./public/images/demo1.jpg" width="450px" height="350px">
 
  The `Score` increses while same images are not clicked.
 
-<img src="./public/images/demo2.jpg" width="400px" height="400px">
+<img src="./public/images/demo2.jpg" width="450px" height="350px">
 
  The `Score` resets when the same image is clicked. If it's the highest score, `Top Score` is updated.
 
-<img src="./public/images/demo3.jpg" width="400px" height="400px">
+<img src="./public/images/demo3.jpg" width="450px" height="350px">
 
 
 

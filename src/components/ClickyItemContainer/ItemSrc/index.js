@@ -19,7 +19,7 @@ export const images = [
     "url": "https://www.pokemoncenter.com/wcsstore/PokemonCatalogAssetStore/images/catalog/products/P4249/710-01172/P4249_710-01172_01.jpg"
   },
   {
-    "url": "https://www.gamingnerds.co.uk/media/image/c3/c2/3f/Pickachu-20cm.jpg"
+    "url": "https://pokevault.com/image/cache/catalog/201707/1531489193_pikachuseaside7-500x500.jpg"
   },
   {
     "url": "https://www.pokemoncenter.com/wcsstore/PokemonCatalogAssetStore/images/catalog/products/P4671/715-89351/P4671_715-89351_02.jpg"
@@ -28,7 +28,7 @@ export const images = [
     "url": "https://i5.walmartimages.ca/images/Large/218/602/6000197218602.jpg"
   },
   {
-    "url": "https://sociorocketnewsen.files.wordpress.com/2016/01/maikopika.jpg?w=640"
+    "url": "https://images-na.ssl-images-amazon.com/images/I/61WNueJB2pL._SX466_.jpg"
   },
   {
     "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo4wsdu3Uh5a1BZU9YiKfLpWFqkp6MQ5UUk_C9aUWeRHDclPs4"
